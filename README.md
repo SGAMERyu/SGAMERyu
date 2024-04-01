@@ -13,14 +13,9 @@
 [![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)](https://sass-lang.com/)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
-### 工作经历
-- 2019-07~2020-11 vipkid 在线教室组-前端工程师
-- 2020-11~2022-06 快手 社区生态组-前端工程师
-- 2022-06~至今 领星 星运项目组-前端工程师
 
 ### Stats
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SGAMERyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SGAMERyu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGAMERyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SGAMERyu&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
