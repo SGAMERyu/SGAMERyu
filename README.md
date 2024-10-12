@@ -19,3 +19,8 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SGAMERyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SGAMERyu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGAMERyu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+### 自己创建的小玩具
+
+- [Find All You Need For 1000X Best Software](https://sasstores.top/ "expolre sasstores")
+- [Online China lifestyle tool](https://chinalifecompanion.top/)
