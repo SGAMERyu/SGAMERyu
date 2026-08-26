@@ -22,6 +22,7 @@
 
 ### 自己创建的小玩具
 
-- [Find All You Need For 1000X Best Software](https://sasstores.top/ "expolre sasstores")
-- [Online China lifestyle tool](https://chinalifecompanion.top/)
-- [Alphabet date ideas](https://alphabet-data-ideas.top/)
+- [birthday pokemon finder](https://birthdaypokemon.com)
+- [eye online test](https://eyetestonline.org/)
+- [gpu stress test](https://webgpustress.com/)
+- [grid maker](http://drawgrid.org/)
