@@ -26,3 +26,8 @@
 - [eye online test](https://eyetestonline.org/)
 - [gpu stress test](https://webgpustress.com/)
 - [grid maker](http://drawgrid.org/)
+- [Classroom seating
+chart maker](https://deskroster.com/)
+- [Free Mental
+Math Games](https://pondmath.com/)
+
